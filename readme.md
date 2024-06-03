@@ -1,5 +1,6 @@
 
 ## A BluePill project build using CubeMX.
+https://github.com/markr1961/CubeMX_BluePill.git  
 
 ## Build IDE
 CubeMX  
