@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\BluePill-CubeMX.ewp</path>
+  </project>
+  <batchBuild>
+    <batchDefinition>
+      <name>build</name>
+      <member>
+        <project>BluePill-CubeMX</project>
+        <configuration>BluePill-CubeMX</configuration>
+      </member>
+    </batchDefinition>
+  </batchBuild>
+</workspace>
+
+
